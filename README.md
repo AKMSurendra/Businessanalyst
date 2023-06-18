@@ -1,7 +1,11 @@
 # Businessanalyst
+
 Hiring Process
+
 You are a business analyst engaged in the development of a Hiring Management System. The business 
+
 team has provided you with the detailed As-Is functioning of the current process below. 
+
 Case Study: Hiring Process
 1 Hiring Manager (HM) creates a job request with the Joining Description.
 2 HM takes approval from his partner on this JD. Once approved the HM share the JD with the 
